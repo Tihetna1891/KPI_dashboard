@@ -1,0 +1,391 @@
+Unnamed: 0,Date,Location Group,Price,ChipChip Price,Diff (%),Num Orders,Product Name
+0,2024-08-01T00:00:00.000,Local Shops,50.0,58.0,16.0,129.0,Red Onion B
+1,2024-08-01T00:00:00.000,Supermarkets,,58.0,,129.0,Red Onion B
+2,2024-08-01T00:00:00.000,Sunday Markets,,58.0,,129.0,Red Onion B
+3,2024-08-01T00:00:00.000,Distribution Centers,55.0,58.0,5.454545454545454,129.0,Red Onion B
+4,2024-08-01T00:00:00.000,Farm,45.0,58.0,28.88888888888889,129.0,Red Onion B
+5,2024-08-02T00:00:00.000,Local Shops,55.0,58.0,5.454545454545454,206.0,Red Onion B
+6,2024-08-02T00:00:00.000,Supermarkets,,58.0,,206.0,Red Onion B
+7,2024-08-02T00:00:00.000,Sunday Markets,,58.0,,206.0,Red Onion B
+8,2024-08-02T00:00:00.000,Distribution Centers,58.0,58.0,0.0,206.0,Red Onion B
+9,2024-08-02T00:00:00.000,Farm,45.0,58.0,28.88888888888889,206.0,Red Onion B
+10,2024-08-03T00:00:00.000,Local Shops,40.0,,,0.0,Red Onion B
+11,2024-08-03T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+12,2024-08-03T00:00:00.000,Sunday Markets,40.0,,,0.0,Red Onion B
+13,2024-08-03T00:00:00.000,Distribution Centers,58.0,,,0.0,Red Onion B
+14,2024-08-03T00:00:00.000,Farm,57.5,,,0.0,Red Onion B
+15,2024-08-04T00:00:00.000,Local Shops,50.0,58.0,16.0,219.0,Red Onion B
+16,2024-08-04T00:00:00.000,Supermarkets,,58.0,,219.0,Red Onion B
+17,2024-08-04T00:00:00.000,Sunday Markets,40.0,58.0,45.0,219.0,Red Onion B
+18,2024-08-04T00:00:00.000,Distribution Centers,58.0,58.0,0.0,219.0,Red Onion B
+19,2024-08-04T00:00:00.000,Farm,57.0,58.0,1.7543859649122806,219.0,Red Onion B
+20,2024-08-05T00:00:00.000,Local Shops,55.0,58.0,5.454545454545454,0.0,Red Onion B
+21,2024-08-05T00:00:00.000,Supermarkets,,58.0,,0.0,Red Onion B
+22,2024-08-05T00:00:00.000,Sunday Markets,55.0,58.0,5.454545454545454,0.0,Red Onion B
+23,2024-08-05T00:00:00.000,Distribution Centers,58.0,58.0,0.0,0.0,Red Onion B
+24,2024-08-05T00:00:00.000,Farm,57.0,58.0,1.7543859649122806,0.0,Red Onion B
+25,2024-08-06T00:00:00.000,Local Shops,45.0,,,0.0,Red Onion B
+26,2024-08-06T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+27,2024-08-06T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+28,2024-08-06T00:00:00.000,Distribution Centers,75.0,,,0.0,Red Onion B
+29,2024-08-06T00:00:00.000,Farm,57.0,,,0.0,Red Onion B
+30,2024-08-07T00:00:00.000,Local Shops,55.0,79.0,43.63636363636363,980.0,Red Onion B
+31,2024-08-07T00:00:00.000,Supermarkets,,79.0,,980.0,Red Onion B
+32,2024-08-07T00:00:00.000,Sunday Markets,,79.0,,980.0,Red Onion B
+33,2024-08-07T00:00:00.000,Distribution Centers,85.0,79.0,-7.0588235294117645,980.0,Red Onion B
+34,2024-08-07T00:00:00.000,Farm,75.0,79.0,5.333333333333334,980.0,Red Onion B
+35,2024-08-08T00:00:00.000,Local Shops,70.0,,,0.0,Red Onion B
+36,2024-08-08T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+37,2024-08-08T00:00:00.000,Sunday Markets,90.0,,,0.0,Red Onion B
+38,2024-08-08T00:00:00.000,Distribution Centers,85.0,,,0.0,Red Onion B
+39,2024-08-08T00:00:00.000,Farm,75.0,,,0.0,Red Onion B
+40,2024-08-09T00:00:00.000,Local Shops,80.0,,,0.0,Red Onion B
+41,2024-08-09T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+42,2024-08-09T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+43,2024-08-09T00:00:00.000,Distribution Centers,85.0,,,0.0,Red Onion B
+44,2024-08-09T00:00:00.000,Farm,81.0,,,0.0,Red Onion B
+45,2024-08-10T00:00:00.000,Local Shops,85.0,84.0,-1.1764705882352942,419.0,Red Onion B
+46,2024-08-10T00:00:00.000,Supermarkets,,84.0,,419.0,Red Onion B
+47,2024-08-10T00:00:00.000,Sunday Markets,,84.0,,419.0,Red Onion B
+48,2024-08-10T00:00:00.000,Distribution Centers,85.0,84.0,-1.1764705882352942,419.0,Red Onion B
+49,2024-08-10T00:00:00.000,Farm,82.0,84.0,2.4390243902439024,419.0,Red Onion B
+50,2024-08-11T00:00:00.000,Local Shops,85.0,,,0.0,Red Onion B
+51,2024-08-11T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+52,2024-08-11T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+53,2024-08-11T00:00:00.000,Distribution Centers,85.0,,,0.0,Red Onion B
+54,2024-08-11T00:00:00.000,Farm,86.0,,,0.0,Red Onion B
+55,2024-08-12T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+56,2024-08-12T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+57,2024-08-12T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+58,2024-08-12T00:00:00.000,Distribution Centers,85.0,,,0.0,Red Onion B
+59,2024-08-12T00:00:00.000,Farm,75.5,,,0.0,Red Onion B
+60,2024-08-13T00:00:00.000,Local Shops,80.0,84.0,5.0,320.0,Red Onion B
+61,2024-08-13T00:00:00.000,Supermarkets,,84.0,,320.0,Red Onion B
+62,2024-08-13T00:00:00.000,Sunday Markets,,84.0,,320.0,Red Onion B
+63,2024-08-13T00:00:00.000,Distribution Centers,78.0,84.0,7.6923076923076925,320.0,Red Onion B
+64,2024-08-13T00:00:00.000,Farm,75.5,84.0,11.258278145695364,320.0,Red Onion B
+65,2024-08-14T00:00:00.000,Local Shops,90.0,78.0,-13.333333333333334,471.44444444444446,Red Onion B
+66,2024-08-14T00:00:00.000,Supermarkets,,78.0,,471.44444444444446,Red Onion B
+67,2024-08-14T00:00:00.000,Sunday Markets,,78.0,,471.44444444444446,Red Onion B
+68,2024-08-14T00:00:00.000,Distribution Centers,79.0,78.0,-1.2658227848101269,471.44444444444446,Red Onion B
+69,2024-08-14T00:00:00.000,Farm,75.5,78.0,3.3112582781456954,471.44444444444446,Red Onion B
+70,2024-08-15T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+71,2024-08-15T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+72,2024-08-15T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+73,2024-08-15T00:00:00.000,Distribution Centers,76.0,,,0.0,Red Onion B
+74,2024-08-15T00:00:00.000,Farm,75.5,,,0.0,Red Onion B
+75,2024-08-16T00:00:00.000,Local Shops,95.0,84.0,-11.578947368421051,676.0,Red Onion B
+76,2024-08-16T00:00:00.000,Supermarkets,,84.0,,676.0,Red Onion B
+77,2024-08-16T00:00:00.000,Sunday Markets,,84.0,,676.0,Red Onion B
+78,2024-08-16T00:00:00.000,Distribution Centers,76.0,84.0,10.526315789473683,676.0,Red Onion B
+79,2024-08-16T00:00:00.000,Farm,75.5,84.0,11.258278145695364,676.0,Red Onion B
+80,2024-08-17T00:00:00.000,Local Shops,80.0,,,0.0,Red Onion B
+81,2024-08-17T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+82,2024-08-17T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+83,2024-08-17T00:00:00.000,Distribution Centers,79.0,,,0.0,Red Onion B
+84,2024-08-17T00:00:00.000,Farm,75.5,,,0.0,Red Onion B
+85,2024-08-18T00:00:00.000,Local Shops,80.0,,,0.0,Red Onion B
+86,2024-08-18T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+87,2024-08-18T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+88,2024-08-18T00:00:00.000,Distribution Centers,77.0,,,0.0,Red Onion B
+89,2024-08-18T00:00:00.000,Farm,75.5,,,0.0,Red Onion B
+90,2024-08-19T00:00:00.000,Local Shops,83.0,,,0.0,Red Onion B
+91,2024-08-19T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+92,2024-08-19T00:00:00.000,Sunday Markets,45.0,,,0.0,Red Onion B
+93,2024-08-19T00:00:00.000,Distribution Centers,76.0,,,0.0,Red Onion B
+94,2024-08-19T00:00:00.000,Farm,75.5,,,0.0,Red Onion B
+95,2024-08-20T00:00:00.000,Local Shops,85.0,,,0.0,Red Onion B
+96,2024-08-20T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+97,2024-08-20T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+98,2024-08-20T00:00:00.000,Distribution Centers,80.0,,,0.0,Red Onion B
+99,2024-08-20T00:00:00.000,Farm,76.5,,,0.0,Red Onion B
+100,2024-08-21T00:00:00.000,Local Shops,90.0,79.0,-12.22222222222222,604.0,Red Onion B
+101,2024-08-21T00:00:00.000,Supermarkets,,79.0,,604.0,Red Onion B
+102,2024-08-21T00:00:00.000,Sunday Markets,,79.0,,604.0,Red Onion B
+103,2024-08-21T00:00:00.000,Distribution Centers,79.0,79.0,0.0,604.0,Red Onion B
+104,2024-08-21T00:00:00.000,Farm,76.5,79.0,3.2679738562091507,604.0,Red Onion B
+105,2024-08-22T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+106,2024-08-22T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+107,2024-08-22T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+108,2024-08-22T00:00:00.000,Distribution Centers,77.0,,,0.0,Red Onion B
+109,2024-08-22T00:00:00.000,Farm,76.5,,,0.0,Red Onion B
+110,2024-08-23T00:00:00.000,Local Shops,85.0,,,0.0,Red Onion B
+111,2024-08-23T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+112,2024-08-23T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+113,2024-08-23T00:00:00.000,Distribution Centers,90.0,,,0.0,Red Onion B
+114,2024-08-23T00:00:00.000,Farm,76.5,,,0.0,Red Onion B
+115,2024-08-24T00:00:00.000,Local Shops,85.0,32.75,-61.47058823529412,758.25,Red Onion B
+116,2024-08-24T00:00:00.000,Supermarkets,,32.75,,758.25,Red Onion B
+117,2024-08-24T00:00:00.000,Sunday Markets,70.0,32.75,-53.21428571428572,758.25,Red Onion B
+118,2024-08-24T00:00:00.000,Distribution Centers,93.0,32.75,-64.78494623655914,758.25,Red Onion B
+119,2024-08-24T00:00:00.000,Farm,76.5,32.75,-57.18954248366013,758.25,Red Onion B
+120,2024-08-25T00:00:00.000,Local Shops,80.0,79.0,-1.25,15.0,Red Onion B
+121,2024-08-25T00:00:00.000,Supermarkets,,79.0,,15.0,Red Onion B
+122,2024-08-25T00:00:00.000,Sunday Markets,70.0,79.0,12.857142857142856,15.0,Red Onion B
+123,2024-08-25T00:00:00.000,Distribution Centers,93.0,79.0,-15.053763440860216,15.0,Red Onion B
+124,2024-08-25T00:00:00.000,Farm,78.5,79.0,0.6369426751592357,15.0,Red Onion B
+125,2024-08-26T00:00:00.000,Local Shops,90.0,102.5,13.88888888888889,145.5,Red Onion B
+126,2024-08-26T00:00:00.000,Supermarkets,,102.5,,145.5,Red Onion B
+127,2024-08-26T00:00:00.000,Sunday Markets,,102.5,,145.5,Red Onion B
+128,2024-08-26T00:00:00.000,Distribution Centers,98.0,102.5,4.591836734693878,145.5,Red Onion B
+129,2024-08-26T00:00:00.000,Farm,78.5,102.5,30.573248407643312,145.5,Red Onion B
+130,2024-08-27T00:00:00.000,Local Shops,90.0,100.0,11.11111111111111,121.0,Red Onion B
+131,2024-08-27T00:00:00.000,Supermarkets,100.0,100.0,0.0,121.0,Red Onion B
+132,2024-08-27T00:00:00.000,Sunday Markets,,100.0,,121.0,Red Onion B
+133,2024-08-27T00:00:00.000,Distribution Centers,100.0,100.0,0.0,121.0,Red Onion B
+134,2024-08-27T00:00:00.000,Farm,78.5,100.0,27.38853503184713,121.0,Red Onion B
+135,2024-08-28T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+136,2024-08-28T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+137,2024-08-28T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+138,2024-08-28T00:00:00.000,Distribution Centers,100.0,,,0.0,Red Onion B
+139,2024-08-28T00:00:00.000,Farm,78.5,,,0.0,Red Onion B
+140,2024-08-29T00:00:00.000,Local Shops,90.0,83.0,-7.777777777777778,946.0,Red Onion B
+141,2024-08-29T00:00:00.000,Supermarkets,,83.0,,946.0,Red Onion B
+142,2024-08-29T00:00:00.000,Sunday Markets,,83.0,,946.0,Red Onion B
+143,2024-08-29T00:00:00.000,Distribution Centers,100.0,83.0,-17.0,946.0,Red Onion B
+144,2024-08-29T00:00:00.000,Farm,78.5,83.0,5.7324840764331215,946.0,Red Onion B
+145,2024-08-30T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+146,2024-08-30T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+147,2024-08-30T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+148,2024-08-30T00:00:00.000,Distribution Centers,90.0,,,0.0,Red Onion B
+149,2024-08-30T00:00:00.000,Farm,78.5,,,0.0,Red Onion B
+150,2024-08-31T00:00:00.000,Local Shops,75.0,,,0.0,Red Onion B
+151,2024-08-31T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+152,2024-08-31T00:00:00.000,Sunday Markets,75.0,,,0.0,Red Onion B
+153,2024-08-31T00:00:00.000,Distribution Centers,90.0,,,0.0,Red Onion B
+154,2024-08-31T00:00:00.000,Farm,78.5,,,0.0,Red Onion B
+155,2024-09-01T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+156,2024-09-01T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+157,2024-09-01T00:00:00.000,Sunday Markets,75.0,,,0.0,Red Onion B
+158,2024-09-01T00:00:00.000,Distribution Centers,88.0,,,0.0,Red Onion B
+159,2024-09-01T00:00:00.000,Farm,92.5,,,0.0,Red Onion B
+160,2024-09-02T00:00:00.000,Local Shops,95.0,79.0,-16.842105263157894,453.0,Red Onion B
+161,2024-09-02T00:00:00.000,Supermarkets,,79.0,,453.0,Red Onion B
+162,2024-09-02T00:00:00.000,Sunday Markets,,79.0,,453.0,Red Onion B
+163,2024-09-02T00:00:00.000,Distribution Centers,88.0,79.0,-10.227272727272728,453.0,Red Onion B
+164,2024-09-02T00:00:00.000,Farm,92.5,79.0,-14.594594594594597,453.0,Red Onion B
+165,2024-09-03T00:00:00.000,Local Shops,95.0,,,0.0,Red Onion B
+166,2024-09-03T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+167,2024-09-03T00:00:00.000,Sunday Markets,80.0,,,0.0,Red Onion B
+168,2024-09-03T00:00:00.000,Distribution Centers,88.0,,,0.0,Red Onion B
+169,2024-09-03T00:00:00.000,Farm,92.5,,,0.0,Red Onion B
+170,2024-09-04T00:00:00.000,Local Shops,90.0,85.0,-5.555555555555555,737.0,Red Onion B
+171,2024-09-04T00:00:00.000,Supermarkets,,85.0,,737.0,Red Onion B
+172,2024-09-04T00:00:00.000,Sunday Markets,,85.0,,737.0,Red Onion B
+173,2024-09-04T00:00:00.000,Distribution Centers,88.0,85.0,-3.4090909090909087,737.0,Red Onion B
+174,2024-09-04T00:00:00.000,Farm,92.5,85.0,-8.108108108108109,737.0,Red Onion B
+175,2024-09-05T00:00:00.000,Local Shops,100.0,,,0.0,Red Onion B
+176,2024-09-05T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+177,2024-09-05T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+178,2024-09-05T00:00:00.000,Distribution Centers,95.0,,,0.0,Red Onion B
+179,2024-09-05T00:00:00.000,Farm,92.5,,,0.0,Red Onion B
+180,2024-09-06T00:00:00.000,Local Shops,90.0,89.0,-1.1111111111111112,288.0,Red Onion B
+181,2024-09-06T00:00:00.000,Supermarkets,,89.0,,288.0,Red Onion B
+182,2024-09-06T00:00:00.000,Sunday Markets,,89.0,,288.0,Red Onion B
+183,2024-09-06T00:00:00.000,Distribution Centers,100.0,89.0,-11.0,288.0,Red Onion B
+184,2024-09-06T00:00:00.000,Farm,92.5,89.0,-3.783783783783784,288.0,Red Onion B
+185,2024-09-07T00:00:00.000,Local Shops,90.0,89.0,-1.1111111111111112,678.0,Red Onion B
+186,2024-09-07T00:00:00.000,Supermarkets,,89.0,,678.0,Red Onion B
+187,2024-09-07T00:00:00.000,Sunday Markets,90.0,89.0,-1.1111111111111112,678.0,Red Onion B
+188,2024-09-07T00:00:00.000,Distribution Centers,100.0,89.0,-11.0,678.0,Red Onion B
+189,2024-09-07T00:00:00.000,Farm,92.5,89.0,-3.783783783783784,678.0,Red Onion B
+190,2024-09-08T00:00:00.000,Local Shops,100.0,,,0.0,Red Onion B
+191,2024-09-08T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+192,2024-09-08T00:00:00.000,Sunday Markets,90.0,,,0.0,Red Onion B
+193,2024-09-08T00:00:00.000,Distribution Centers,100.0,,,0.0,Red Onion B
+194,2024-09-08T00:00:00.000,Farm,92.5,,,0.0,Red Onion B
+195,2024-09-09T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+196,2024-09-09T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+197,2024-09-09T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+198,2024-09-09T00:00:00.000,Distribution Centers,100.0,,,0.0,Red Onion B
+199,2024-09-09T00:00:00.000,Farm,92.5,,,0.0,Red Onion B
+200,2024-09-10T00:00:00.000,Local Shops,100.0,,,0.0,Red Onion B
+201,2024-09-10T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+202,2024-09-10T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+203,2024-09-10T00:00:00.000,Distribution Centers,113.0,,,0.0,Red Onion B
+204,2024-09-10T00:00:00.000,Farm,,,,0.0,Red Onion B
+205,2024-09-11T00:00:00.000,Local Shops,,,,0.0,Red Onion B
+206,2024-09-11T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+207,2024-09-11T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+208,2024-09-11T00:00:00.000,Distribution Centers,,,,0.0,Red Onion B
+209,2024-09-11T00:00:00.000,Farm,,,,0.0,Red Onion B
+210,2024-09-12T00:00:00.000,Local Shops,110.0,111.0,0.9090909090909092,0.0,Red Onion B
+211,2024-09-12T00:00:00.000,Supermarkets,,111.0,,0.0,Red Onion B
+212,2024-09-12T00:00:00.000,Sunday Markets,95.0,111.0,16.842105263157894,0.0,Red Onion B
+213,2024-09-12T00:00:00.000,Distribution Centers,125.0,111.0,-11.2,0.0,Red Onion B
+214,2024-09-12T00:00:00.000,Farm,,111.0,,0.0,Red Onion B
+215,2024-09-13T00:00:00.000,Local Shops,110.0,123.0,11.818181818181818,8.0,Red Onion B
+216,2024-09-13T00:00:00.000,Supermarkets,,123.0,,8.0,Red Onion B
+217,2024-09-13T00:00:00.000,Sunday Markets,,123.0,,8.0,Red Onion B
+218,2024-09-13T00:00:00.000,Distribution Centers,115.0,123.0,6.956521739130435,8.0,Red Onion B
+219,2024-09-13T00:00:00.000,Farm,,123.0,,8.0,Red Onion B
+220,2024-09-14T00:00:00.000,Local Shops,110.0,95.0,-13.636363636363637,336.0,Red Onion B
+221,2024-09-14T00:00:00.000,Supermarkets,,95.0,,336.0,Red Onion B
+222,2024-09-14T00:00:00.000,Sunday Markets,,95.0,,336.0,Red Onion B
+223,2024-09-14T00:00:00.000,Distribution Centers,109.0,95.0,-12.844036697247708,336.0,Red Onion B
+224,2024-09-14T00:00:00.000,Farm,,95.0,,336.0,Red Onion B
+225,2024-09-15T00:00:00.000,Local Shops,100.0,,,0.0,Red Onion B
+226,2024-09-15T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+227,2024-09-15T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+228,2024-09-15T00:00:00.000,Distribution Centers,109.0,,,0.0,Red Onion B
+229,2024-09-15T00:00:00.000,Farm,70.5,,,0.0,Red Onion B
+230,2024-09-16T00:00:00.000,Local Shops,100.0,,,0.0,Red Onion B
+231,2024-09-16T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+232,2024-09-16T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+233,2024-09-16T00:00:00.000,Distribution Centers,109.0,,,0.0,Red Onion B
+234,2024-09-16T00:00:00.000,Farm,70.5,,,0.0,Red Onion B
+235,2024-09-17T00:00:00.000,Local Shops,100.0,95.0,-5.0,147.0,Red Onion B
+236,2024-09-17T00:00:00.000,Supermarkets,,95.0,,147.0,Red Onion B
+237,2024-09-17T00:00:00.000,Sunday Markets,,95.0,,147.0,Red Onion B
+238,2024-09-17T00:00:00.000,Distribution Centers,113.0,95.0,-15.929203539823009,147.0,Red Onion B
+239,2024-09-17T00:00:00.000,Farm,70.5,95.0,34.751773049645394,147.0,Red Onion B
+240,2024-09-18T00:00:00.000,Local Shops,110.0,95.0,-13.636363636363637,582.0,Red Onion B
+241,2024-09-18T00:00:00.000,Supermarkets,,95.0,,582.0,Red Onion B
+242,2024-09-18T00:00:00.000,Sunday Markets,,95.0,,582.0,Red Onion B
+243,2024-09-18T00:00:00.000,Distribution Centers,109.0,95.0,-12.844036697247708,582.0,Red Onion B
+244,2024-09-18T00:00:00.000,Farm,70.5,95.0,34.751773049645394,582.0,Red Onion B
+245,2024-09-19T00:00:00.000,Local Shops,110.0,,,0.0,Red Onion B
+246,2024-09-19T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+247,2024-09-19T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+248,2024-09-19T00:00:00.000,Distribution Centers,88.0,,,0.0,Red Onion B
+249,2024-09-19T00:00:00.000,Farm,70.5,,,0.0,Red Onion B
+250,2024-09-20T00:00:00.000,Local Shops,120.0,,,0.0,Red Onion B
+251,2024-09-20T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+252,2024-09-20T00:00:00.000,Sunday Markets,110.0,,,0.0,Red Onion B
+253,2024-09-20T00:00:00.000,Distribution Centers,92.0,,,0.0,Red Onion B
+254,2024-09-20T00:00:00.000,Farm,70.5,,,0.0,Red Onion B
+255,2024-09-21T00:00:00.000,Local Shops,110.0,,,0.0,Red Onion B
+256,2024-09-21T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+257,2024-09-21T00:00:00.000,Sunday Markets,90.0,,,0.0,Red Onion B
+258,2024-09-21T00:00:00.000,Distribution Centers,92.0,,,0.0,Red Onion B
+259,2024-09-21T00:00:00.000,Farm,96.5,,,0.0,Red Onion B
+260,2024-09-22T00:00:00.000,Local Shops,110.0,,,0.0,Red Onion B
+261,2024-09-22T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+262,2024-09-22T00:00:00.000,Sunday Markets,90.0,,,0.0,Red Onion B
+263,2024-09-22T00:00:00.000,Distribution Centers,94.0,,,0.0,Red Onion B
+264,2024-09-22T00:00:00.000,Farm,96.5,,,0.0,Red Onion B
+265,2024-09-23T00:00:00.000,Local Shops,110.0,99.0,-10.0,448.0,Red Onion B
+266,2024-09-23T00:00:00.000,Supermarkets,,99.0,,448.0,Red Onion B
+267,2024-09-23T00:00:00.000,Sunday Markets,,99.0,,448.0,Red Onion B
+268,2024-09-23T00:00:00.000,Distribution Centers,105.0,99.0,-5.714285714285714,448.0,Red Onion B
+269,2024-09-23T00:00:00.000,Farm,96.5,99.0,2.5906735751295336,448.0,Red Onion B
+270,2024-09-24T00:00:00.000,Local Shops,110.0,,,0.0,Red Onion B
+271,2024-09-24T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+272,2024-09-24T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+273,2024-09-24T00:00:00.000,Distribution Centers,95.0,,,0.0,Red Onion B
+274,2024-09-24T00:00:00.000,Farm,96.5,,,0.0,Red Onion B
+275,2024-09-25T00:00:00.000,Local Shops,110.0,94.0,-14.545454545454543,19.5,Red Onion B
+276,2024-09-25T00:00:00.000,Supermarkets,,94.0,,19.5,Red Onion B
+277,2024-09-25T00:00:00.000,Sunday Markets,,94.0,,19.5,Red Onion B
+278,2024-09-25T00:00:00.000,Distribution Centers,94.0,94.0,0.0,19.5,Red Onion B
+279,2024-09-25T00:00:00.000,Farm,96.5,94.0,-2.5906735751295336,19.5,Red Onion B
+280,2024-09-26T00:00:00.000,Local Shops,110.0,109.0,-0.9090909090909092,6.0,Red Onion B
+281,2024-09-26T00:00:00.000,Supermarkets,,109.0,,6.0,Red Onion B
+282,2024-09-26T00:00:00.000,Sunday Markets,,109.0,,6.0,Red Onion B
+283,2024-09-26T00:00:00.000,Distribution Centers,95.0,109.0,14.736842105263156,6.0,Red Onion B
+284,2024-09-26T00:00:00.000,Farm,96.5,109.0,12.953367875647666,6.0,Red Onion B
+285,2024-09-27T00:00:00.000,Local Shops,,,,0.0,Red Onion B
+286,2024-09-27T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+287,2024-09-27T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+288,2024-09-27T00:00:00.000,Distribution Centers,93.0,,,0.0,Red Onion B
+289,2024-09-27T00:00:00.000,Farm,96.5,,,0.0,Red Onion B
+290,2024-09-28T00:00:00.000,Local Shops,100.0,,,0.0,Red Onion B
+291,2024-09-28T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+292,2024-09-28T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+293,2024-09-28T00:00:00.000,Distribution Centers,95.0,,,0.0,Red Onion B
+294,2024-09-28T00:00:00.000,Farm,96.5,,,0.0,Red Onion B
+295,2024-09-29T00:00:00.000,Local Shops,110.0,,,0.0,Red Onion B
+296,2024-09-29T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+297,2024-09-29T00:00:00.000,Sunday Markets,95.0,,,0.0,Red Onion B
+298,2024-09-29T00:00:00.000,Distribution Centers,89.0,,,0.0,Red Onion B
+299,2024-09-29T00:00:00.000,Farm,96.5,,,0.0,Red Onion B
+300,2024-09-30T00:00:00.000,Local Shops,95.0,,,0.0,Red Onion B
+301,2024-09-30T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+302,2024-09-30T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+303,2024-09-30T00:00:00.000,Distribution Centers,89.0,,,0.0,Red Onion B
+304,2024-09-30T00:00:00.000,Farm,92.5,,,0.0,Red Onion B
+305,2024-10-01T00:00:00.000,Local Shops,100.0,79.0,-21.0,170.0,Red Onion B
+306,2024-10-01T00:00:00.000,Supermarkets,,79.0,,170.0,Red Onion B
+307,2024-10-01T00:00:00.000,Sunday Markets,,79.0,,170.0,Red Onion B
+308,2024-10-01T00:00:00.000,Distribution Centers,89.0,79.0,-11.235955056179774,170.0,Red Onion B
+309,2024-10-01T00:00:00.000,Farm,92.5,79.0,-14.594594594594597,170.0,Red Onion B
+310,2024-10-02T00:00:00.000,Local Shops,100.0,79.0,-21.0,33.333333333333336,Red Onion B
+311,2024-10-02T00:00:00.000,Supermarkets,,79.0,,33.333333333333336,Red Onion B
+312,2024-10-02T00:00:00.000,Sunday Markets,,79.0,,33.333333333333336,Red Onion B
+313,2024-10-02T00:00:00.000,Distribution Centers,89.0,79.0,-11.235955056179774,33.333333333333336,Red Onion B
+314,2024-10-02T00:00:00.000,Farm,92.5,79.0,-14.594594594594597,33.333333333333336,Red Onion B
+315,2024-10-03T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+316,2024-10-03T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+317,2024-10-03T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+318,2024-10-03T00:00:00.000,Distribution Centers,89.0,,,0.0,Red Onion B
+319,2024-10-03T00:00:00.000,Farm,92.5,,,0.0,Red Onion B
+320,2024-10-04T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+321,2024-10-04T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+322,2024-10-04T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+323,2024-10-04T00:00:00.000,Distribution Centers,89.0,,,0.0,Red Onion B
+324,2024-10-04T00:00:00.000,Farm,88.0,,,0.0,Red Onion B
+325,2024-10-05T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+326,2024-10-05T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+327,2024-10-05T00:00:00.000,Sunday Markets,80.0,,,0.0,Red Onion B
+328,2024-10-05T00:00:00.000,Distribution Centers,89.0,,,0.0,Red Onion B
+329,2024-10-05T00:00:00.000,Farm,88.0,,,0.0,Red Onion B
+330,2024-10-06T00:00:00.000,Local Shops,80.0,,,0.0,Red Onion B
+331,2024-10-06T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+332,2024-10-06T00:00:00.000,Sunday Markets,80.0,,,0.0,Red Onion B
+333,2024-10-06T00:00:00.000,Distribution Centers,80.0,,,0.0,Red Onion B
+334,2024-10-06T00:00:00.000,Farm,88.0,,,0.0,Red Onion B
+335,2024-10-07T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+336,2024-10-07T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+337,2024-10-07T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+338,2024-10-07T00:00:00.000,Distribution Centers,80.0,,,0.0,Red Onion B
+339,2024-10-07T00:00:00.000,Farm,88.0,,,0.0,Red Onion B
+340,2024-10-08T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+341,2024-10-08T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+342,2024-10-08T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+343,2024-10-08T00:00:00.000,Distribution Centers,80.0,,,0.0,Red Onion B
+344,2024-10-08T00:00:00.000,Farm,88.0,,,0.0,Red Onion B
+345,2024-10-09T00:00:00.000,Local Shops,90.0,75.5,-16.11111111111111,29.5,Red Onion B
+346,2024-10-09T00:00:00.000,Supermarkets,,75.5,,29.5,Red Onion B
+347,2024-10-09T00:00:00.000,Sunday Markets,,75.5,,29.5,Red Onion B
+348,2024-10-09T00:00:00.000,Distribution Centers,80.0,75.5,-5.625,29.5,Red Onion B
+349,2024-10-09T00:00:00.000,Farm,88.0,75.5,-14.204545454545457,29.5,Red Onion B
+350,2024-10-10T00:00:00.000,Local Shops,85.0,,,0.0,Red Onion B
+351,2024-10-10T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+352,2024-10-10T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+353,2024-10-10T00:00:00.000,Distribution Centers,80.0,,,0.0,Red Onion B
+354,2024-10-10T00:00:00.000,Farm,88.0,,,0.0,Red Onion B
+355,2024-10-11T00:00:00.000,Local Shops,80.0,,,0.0,Red Onion B
+356,2024-10-11T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+357,2024-10-11T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+358,2024-10-11T00:00:00.000,Distribution Centers,70.0,,,0.0,Red Onion B
+359,2024-10-11T00:00:00.000,Farm,88.0,,,0.0,Red Onion B
+360,2024-10-12T00:00:00.000,Local Shops,90.0,,,0.0,Red Onion B
+361,2024-10-12T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+362,2024-10-12T00:00:00.000,Sunday Markets,75.0,,,0.0,Red Onion B
+363,2024-10-12T00:00:00.000,Distribution Centers,70.0,,,0.0,Red Onion B
+364,2024-10-12T00:00:00.000,Farm,80.0,,,0.0,Red Onion B
+365,2024-10-13T00:00:00.000,Local Shops,85.0,,,0.0,Red Onion B
+366,2024-10-13T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+367,2024-10-13T00:00:00.000,Sunday Markets,80.0,,,0.0,Red Onion B
+368,2024-10-13T00:00:00.000,Distribution Centers,70.0,,,0.0,Red Onion B
+369,2024-10-13T00:00:00.000,Farm,80.0,,,0.0,Red Onion B
+370,2024-10-14T00:00:00.000,Local Shops,90.0,76.0,-15.555555555555555,136.0,Red Onion B
+371,2024-10-14T00:00:00.000,Supermarkets,,76.0,,136.0,Red Onion B
+372,2024-10-14T00:00:00.000,Sunday Markets,,76.0,,136.0,Red Onion B
+373,2024-10-14T00:00:00.000,Distribution Centers,70.0,76.0,8.571428571428571,136.0,Red Onion B
+374,2024-10-14T00:00:00.000,Farm,80.0,76.0,-5.0,136.0,Red Onion B
+375,2024-10-15T00:00:00.000,Local Shops,85.0,,,0.0,Red Onion B
+376,2024-10-15T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+377,2024-10-15T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+378,2024-10-15T00:00:00.000,Distribution Centers,70.0,,,0.0,Red Onion B
+379,2024-10-15T00:00:00.000,Farm,,,,0.0,Red Onion B
+380,2024-10-16T00:00:00.000,Local Shops,80.0,,,0.0,Red Onion B
+381,2024-10-16T00:00:00.000,Supermarkets,,,,0.0,Red Onion B
+382,2024-10-16T00:00:00.000,Sunday Markets,,,,0.0,Red Onion B
+383,2024-10-16T00:00:00.000,Distribution Centers,70.0,,,0.0,Red Onion B
+384,2024-10-16T00:00:00.000,Farm,,,,0.0,Red Onion B
+385,2024-10-17T00:00:00.000,Local Shops,90.0,81.0,-10.0,14.5,Red Onion B
+386,2024-10-17T00:00:00.000,Supermarkets,,81.0,,14.5,Red Onion B
+387,2024-10-17T00:00:00.000,Sunday Markets,,81.0,,14.5,Red Onion B
+388,2024-10-17T00:00:00.000,Distribution Centers,70.0,81.0,15.714285714285714,14.5,Red Onion B
+389,2024-10-17T00:00:00.000,Farm,,81.0,,14.5,Red Onion B
